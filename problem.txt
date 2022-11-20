@@ -1,0 +1,21 @@
+Given a number N, Find the maximum possible LCM that can be attained by any three numbers less than or equal to N.
+Note- LCM stands for Lowest Common Multiple. Also, Numbers can be repeated.
+A Lowest Common Multiple are the prime factors of a number.
+examples:
+Input:
+N=9
+Output:
+504
+Explanation:
+504 is the maximum LCM that can be attained
+by any triplet of numbers less than or equal 9.
+The triplet which has this LCM is {7,8,9}.
+
+Input:
+N=7
+Output:
+210
+Explanation:
+210 is the maximum LCM that can be attained
+by any triplet of numbers less than or equal 7.
+The triplet which has this LCM is {5,6,7}.
